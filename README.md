@@ -1,14 +1,14 @@
-### Hi, I'm Daniel 👋
+# Daniel Adanegbe
 
-Multiplatform developer (CFGS DAM, Institut Nicolau Copèrnic — Terrassa, Spain).
-I build across web, desktop, Android and Roblox, and I like taking a project from a rough
-idea to something that actually runs.
+Multiplatform developer, CFGS DAM at Institut Nicolau Copèrnic (Terrassa). I build across web,
+desktop, Android and backend, and I'd rather ship something small that runs than leave something
+big half-finished.
 
-- 💼 Built a club-management ERP (CRUD, roles, bulk email) during my DAM work placement
-- 🧩 5 portfolio projects covering web, desktop, Android, backend and Unity — see below
-- 🌱 Learning: automated testing and CI/CD workflows
-- 🌍 Based in Terrassa, Catalonia — Spanish / Catalan native, English B2
-- 📫 Reach me: danieladanegbe@gmail.com
+- Built a club-management ERP (CRUD, roles, bulk email) during my DAM work placement.
+- Five projects below — web, desktop, Android, backend, Unity.
+- Working through automated testing and CI/CD right now.
+- Terrassa, Catalonia. Spanish and Catalan native, English B2.
+- danieladanegbe@gmail.com
 
 #### Stack
 
@@ -25,9 +25,7 @@ idea to something that actually runs.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-#### Featured projects
-
-Small, self-contained projects, each documenting what it demonstrates and why that stack:
+#### Projects
 
 | Project | Stack | What it shows |
 |---|---|---|
@@ -39,6 +37,6 @@ Small, self-contained projects, each documenting what it demonstrates and why th
 
 #### Work placement
 
-Built a **club-management ERP** (Java, Docker, MySQL) at Club de Tennis Terrassa during my
-second-year DAM placement: CRUD for members and bookings, role-based access, bulk email.
-Team codebase, source isn't mine to publish — happy to walk through it in an interview.
+Second-year DAM placement at Club de Tennis Terrassa: a club-management ERP in Java, Docker and
+MySQL. CRUD for members and bookings, role-based access, bulk email. It's a team codebase so I
+can't publish the source, but I can walk through it in an interview.
