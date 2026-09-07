@@ -1,10 +1,13 @@
-# Daniel Adanegbe
+![Daniel Adanegbe](./banner.png)
 
-Multiplatform developer, CFGS DAM graduate. I build across web, desktop, Android and backend,
-and I'd rather ship something small that runs than leave something big half-finished.
+Multiplatform developer, CFGS DAM graduate, looking for a junior developer role. I build across
+web, desktop, Android and backend, and I'd rather ship something small that runs than leave
+something big half-finished.
 
 - Built a club-management ERP (CRUD, roles, bulk email) during my DAM work placement.
-- Five projects below — web, desktop, Android, backend, Unity.
+- Five projects below, each picked to show a different fundamental: physics and NavMesh AI in
+  Unity, real-time state in FB_Manager, layered backend architecture in Incidencia_Y_Estado,
+  zero-dependency vanilla JS in Calculadora, a native desktop app in Room3D_Editor.
 - Working through automated testing and CI/CD right now.
 - Terrassa, Catalonia. Spanish and Catalan native, English B2.
 - danieladanegbe@gmail.com
