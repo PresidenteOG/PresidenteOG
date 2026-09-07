@@ -1,8 +1,7 @@
 # Daniel Adanegbe
 
-Multiplatform developer, CFGS DAM at Institut Nicolau Copèrnic (Terrassa). I build across web,
-desktop, Android and backend, and I'd rather ship something small that runs than leave something
-big half-finished.
+Multiplatform developer, CFGS DAM graduate. I build across web, desktop, Android and backend,
+and I'd rather ship something small that runs than leave something big half-finished.
 
 - Built a club-management ERP (CRUD, roles, bulk email) during my DAM work placement.
 - Five projects below — web, desktop, Android, backend, Unity.
