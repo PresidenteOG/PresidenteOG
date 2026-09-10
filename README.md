@@ -9,8 +9,10 @@ leave something big half-finished.
 - The projects below are coursework and personal work, cleaned up and made to run from a clean
   clone with no external service behind them: a local database, a stubbed mail sender, a local
   MQTT broker.
-- Every ESP32 exercise runs headless in CI on each push — [that workflow](https://github.com/PresidenteOG/embedded-systems-lab/actions/workflows/wokwi-ci.yml)
-  is where "learning CI/CD" currently stands.
+- On CI/CD: [incident-tracker](https://github.com/PresidenteOG/incident-tracker) runs its test
+  suite and publishes a coverage badge on every push, web-calculator deploys itself to GitHub
+  Pages, and every ESP32 exercise in [embedded-systems-lab](https://github.com/PresidenteOG/embedded-systems-lab/actions/workflows/wokwi-ci.yml)
+  runs headless in the simulator.
 - Terrassa, Catalonia. Spanish and Catalan native, English B2.
 - danieladanegbe@gmail.com
 
@@ -39,13 +41,13 @@ leave something big half-finished.
 | Project | Stack | What it is |
 |---|---|---|
 | [tennis-club-manager](https://github.com/PresidenteOG/tennis-club-manager) | Java · Spring Boot · Thymeleaf · Spring Security | Back office for a tennis club — members, leagues, courts, matches, announcements. Team project from the DAM course. |
-| [incident-tracker](https://github.com/PresidenteOG/incident-tracker) | Java · Spring Boot · Thymeleaf | Internal IT incident log — controller → service → JPA repository, session login, in-memory H2. |
+| [incident-tracker](https://github.com/PresidenteOG/incident-tracker) | Java · Spring Boot · Thymeleaf | Internal IT incident log — controller → service → JPA repository, session login, in-memory H2. Service layer under test, coverage badge, CI on every push. |
 | [fiber-device-manager](https://github.com/PresidenteOG/fiber-device-manager) | Kotlin · Jetpack Compose · Room | Android console for a device fleet. Runs entirely on-device — no backend, no `INTERNET` permission. |
 | [room-planner-3d](https://github.com/PresidenteOG/room-planner-3d) | Rust · Tauri 2 · React · three.js | Desktop room designer — 2D plan, 3D preview, undo/redo, its own `.roomz` save format. |
 | [encrypted-mqtt-chat](https://github.com/PresidenteOG/encrypted-mqtt-chat) | Python · Tkinter · MQTT | Group chat where the broker only sees ciphertext. Honest about what the shared-key model does and doesn't protect. |
 | [unity-minigames](https://github.com/PresidenteOG/unity-minigames) | C# · Unity | Two workshop minigames — a physics ball-roller with NavMesh enemy AI and a platform/portal runner. Playable Windows and Linux builds attached. |
 | [embedded-systems-lab](https://github.com/PresidenteOG/embedded-systems-lab) | MicroPython · ESP32 · Wokwi | Sensor, actuator and MQTT exercises in the Wokwi simulator. Every one runs headless in CI. |
-| [web-calculator](https://github.com/PresidenteOG/web-calculator) | HTML · CSS · JavaScript | One HTML file, no build step, no dependencies. |
+| [web-calculator](https://github.com/PresidenteOG/web-calculator) · [live](https://presidenteog.github.io/web-calculator/) | HTML · CSS · JavaScript | One HTML file, no build step, no dependencies. Deployed to GitHub Pages by Actions. |
 | [learning-lab](https://github.com/PresidenteOG/learning-lab) | Java · Python · JS · CSS · Bash | Two years of small coursework exercises, sorted by language, with a note on what each one practices. |
 
 #### Work placement
