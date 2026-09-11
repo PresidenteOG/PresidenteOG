@@ -41,6 +41,10 @@ leave something big half-finished.
 | Project | Stack | What it is |
 |---|---|---|
 | [tennis-club-manager](https://github.com/PresidenteOG/tennis-club-manager) | Java · Spring Boot · Thymeleaf · Spring Security | Back office for a tennis club — members, leagues, courts, matches, announcements. Team project from the DAM course. |
+| [restaurant-erp](https://github.com/PresidenteOG/restaurant-erp) | Java · Spring Boot · Thymeleaf | Back-office ERP for a restaurant — menu, tables, orders, kitchen, cash reconciliation, staff chat with a Telegram bridge. |
+| [gaula-student-manager](https://github.com/PresidenteOG/gaula-student-manager) | Java · Spring Boot · Flutter | Full-stack school-management platform — REST API with JWT auth and role-based access, Flutter client for Android and web. |
+| [biblionet-library-app](https://github.com/PresidenteOG/biblionet-library-app) | Kotlin · Jetpack Compose · Firebase | Android app for a network of small libraries — shared catalogue, branch stock, loans, a reading quiz. |
+| [q-learning-piano-tiles](https://github.com/PresidenteOG/q-learning-piano-tiles) | Java · Processing | A Q-learning agent that teaches itself to play a Piano-Tiles reflex game, with the state/reward table rendered live. |
 | [incident-tracker](https://github.com/PresidenteOG/incident-tracker) · [live](https://incident-tracker-6sbn.onrender.com) | Java · Spring Boot · Thymeleaf | Internal IT incident log — controller → service → JPA repository, session login, in-memory H2. Service layer under test, coverage badge, CI on every push, deployed on Render. |
 | [fiber-device-manager](https://github.com/PresidenteOG/fiber-device-manager) | Kotlin · Jetpack Compose · Room | Android console for a device fleet. Runs entirely on-device — no backend, no `INTERNET` permission. |
 | [room-planner-3d](https://github.com/PresidenteOG/room-planner-3d) | Rust · Tauri 2 · React · three.js | Desktop room designer — 2D plan, 3D preview, undo/redo, its own `.roomz` save format. |
