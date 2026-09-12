@@ -70,6 +70,8 @@ I treat AI as part of the toolchain, not a black box — I review and test what 
 | [embedded-systems-lab](https://github.com/PresidenteOG/embedded-systems-lab) | ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat&logo=micropython&logoColor=white) ![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) | Sensor, actuator and MQTT exercises in the Wokwi simulator. Every one runs headless in CI. |
 | [web-calculator](https://github.com/PresidenteOG/web-calculator) · [live](https://presidenteog.github.io/web-calculator/) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | One HTML file, no build step, no dependencies. Deployed to GitHub Pages by Actions. |
 | [learning-lab](https://github.com/PresidenteOG/learning-lab) | Java · Python · JS · CSS · Bash | Two years of small coursework exercises, sorted by language, with a note on what each one practices. |
+| [claude-skills](https://github.com/PresidenteOG/claude-skills) | — | 39 general-purpose Claude Code skills I use day-to-day, published for reuse. |
+| [claudefx-template](https://github.com/PresidenteOG/claudefx-template) | — | Sanitized starter structure for an Obsidian-vault-as-Claude-Code-workspace. |
 
 #### Work placement
 
