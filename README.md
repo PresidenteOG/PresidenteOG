@@ -11,7 +11,7 @@ Primary focus: Java / Spring Boot backend and Kotlin / Android. Secondary versat
 - The projects below are coursework and personal work, cleaned up and made to run from a clean
   clone with no external service behind them: a local database, a stubbed mail sender, a local
   MQTT broker.
-- On CI/CD: [incident-tracker](https://incident-tracker-6sbn.onrender.com) runs its test suite
+- On CI/CD: [incident-tracker](https://github.com/PresidenteOG/incident-tracker) runs its test suite
   and publishes a coverage badge on every push and is deployed on Render, web-calculator
   deploys itself to GitHub Pages, and every ESP32 exercise in [embedded-systems-lab](https://github.com/PresidenteOG/embedded-systems-lab/actions/workflows/wokwi-ci.yml)
   runs headless in the simulator.
@@ -76,7 +76,7 @@ I treat AI as part of the toolchain, not a black box — I review and test what 
 
 #### Projects
 
-##### ERP / back-office
+##### Enterprise & Management
 
 | Project | Stack | What it is |
 |---|---|---|
@@ -84,7 +84,7 @@ I treat AI as part of the toolchain, not a black box — I review and test what 
 | [restaurant-erp](https://github.com/PresidenteOG/restaurant-erp)<br>[![live](https://img.shields.io/badge/live-2ea44f?style=flat)](https://restaurant-erp-9nwf.onrender.com) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | Back-office ERP for a restaurant — menu, tables, orders, kitchen, cash reconciliation, staff chat with a Telegram bridge. |
 | [gaula-student-manager](https://github.com/PresidenteOG/gaula-student-manager)<br>[![live](https://img.shields.io/badge/live-2ea44f?style=flat)](https://presidenteog.github.io/gaula-student-manager/) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) | Full-stack school-management platform — REST API with JWT auth and role-based access, Flutter client for Android and web. |
 
-##### Proyecto simple
+##### Client & Desktop Applications
 
 | Project | Stack | What it is |
 |---|---|---|
@@ -97,14 +97,14 @@ I treat AI as part of the toolchain, not a black box — I review and test what 
 | [unity-minigames](https://github.com/PresidenteOG/unity-minigames) · [release](https://github.com/PresidenteOG/unity-minigames/releases) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) | Two workshop minigames — a physics ball-roller with NavMesh enemy AI and a platform/portal runner. Playable Windows and Linux builds attached. |
 | [web-calculator](https://github.com/PresidenteOG/web-calculator)<br>[![live](https://img.shields.io/badge/live-2ea44f?style=flat)](https://presidenteog.github.io/web-calculator/) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | One HTML file, no build step, no dependencies. Deployed to GitHub Pages by Actions. |
 
-##### Laboratorio
+##### Systems & Coursework Labs
 
 | Project | Stack | What it is |
 |---|---|---|
 | [embedded-systems-lab](https://github.com/PresidenteOG/embedded-systems-lab) | ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat&logo=micropython&logoColor=white) ![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) | Sensor, actuator and MQTT exercises in the Wokwi simulator. Every one runs headless in CI. |
 | [learning-lab](https://github.com/PresidenteOG/learning-lab) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | Two years of small coursework exercises, sorted by language, with a note on what each one practices. |
 
-##### Tools & extras
+##### Developer Tools & Agent Skills
 
 | Project | What it is |
 |---|---|
