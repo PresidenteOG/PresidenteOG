@@ -64,9 +64,9 @@ I treat AI as part of the toolchain, not a black box — I review and test what 
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat)
-![LM Studio](https://img.shields.io/badge/LM%20Studio-000000?style=flat)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat)
+![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat&logo=qwen&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-000000?style=flat&logo=lmstudio&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white)
 
 - **Claude / Claude Code** — architecture decisions, implementation, debugging, and the agent/skill tooling behind this workflow.
 - **Gemini** — image generation for banners and diagrams, and a free second-opinion model for research and drafts.
