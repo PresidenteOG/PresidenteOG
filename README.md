@@ -17,6 +17,7 @@ Primary focus: Java / Spring Boot backend and Kotlin / Android. Secondary versat
   runs headless in the simulator.
 - Terrassa, Catalonia. Spanish and Catalan native, English B2.
 - danieladanegbe@gmail.com
+- https://www.linkedin.com/in/daniel-adanegbe/
 
 #### Stack
 
