@@ -16,7 +16,7 @@ Primary focus: Java / Spring Boot backend and Kotlin / Android. Secondary versat
   deploys itself to GitHub Pages, and every ESP32 exercise in [embedded-systems-lab](https://github.com/PresidenteOG/embedded-systems-lab/actions/workflows/wokwi-ci.yml)
   runs headless in the simulator.
 - Terrassa, Catalonia. Spanish and Catalan native, English B2.
-- Contact: ![Gmail](danieladanegbe@gmail.com) / ![LinkedIn](https://www.linkedin.com/in/daniel-adanegbe) 
+- Contact: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:danieladanegbe@gmail.com) / [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-adanegbe)
 
 #### Stack
 
