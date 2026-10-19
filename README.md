@@ -1,26 +1,20 @@
 ![Daniel Adanegbe](./banner.png)
 
-Junior developer (CFGS DAM, Terrassa) looking for a first role in Java / Spring Boot backend or
-Kotlin / Android. I work across web, desktop, Android, backend and embedded, and I'd rather ship
-something small that runs than leave something big half-finished.
+Junior Software Engineer specializing in Java 21, Spring Boot 3, and Multiplatform Systems (Associate Degree in Software Engineering, EQF Level 5). Focused on robust backend APIs, normalized relational data models (JPA/Hibernate), and automated testing pipelines.
+
+Available immediately for **Remote (Spain / EU / Global Contractor B2B)** and hybrid roles.
 
 **Start here:** [incident-tracker](https://github.com/PresidenteOG/incident-tracker), a Spring Boot 3
 and Java 21 incident log with 29 tests (JUnit 5, Mockito, `@DataJpaTest`), a JaCoCo coverage badge
 and CI on every push.
 
-- Built a club-management app with two classmates during my DAM work placement (Java, Spring Boot,
-  MySQL): JPA model, role-based login, bulk email. The public copy is
-  [tennis-club-manager](https://github.com/PresidenteOG/tennis-club-manager).
-- The projects below are coursework and personal work, cleaned up and made to run from a clean
-  clone with no external service behind them: a local database, a stubbed mail sender, a local
-  MQTT broker.
-- CI: incident-tracker runs its tests and publishes coverage on every push, and tennis-club-manager,
-  room-planner-3d, fiber-device-manager and gaula's Flutter client run theirs. web-calculator deploys
-  itself to GitHub Pages, and every ESP32 exercise in
-  [embedded-systems-lab](https://github.com/PresidenteOG/embedded-systems-lab/actions/workflows/wokwi-ci.yml)
-  runs headless in the simulator.
-- I use Claude Code and Gemini every day, and I review and test what they produce before it ships.
-- Terrassa, Catalonia. Spanish and Catalan native, English B2. Available now.
+- Built a commercial club-management ERP for 300+ members during my placement at Club de Tennis Terrassa
+  (Java, Spring Boot, MySQL, Docker Compose): normalized JPA schemas, Spring Security RBAC, automated mail services. The public showcase is [tennis-club-manager](https://github.com/PresidenteOG/tennis-club-manager).
+- The projects below are clean, standalone engineering implementations designed to run from a clean
+  clone with zero external friction: local database fixtures, stubbed mail senders, or containerized brokers.
+- CI/CD: 100% of core repositories enforce automated testing pipelines in GitHub Actions.
+- AI-Assisted Engineering: Daily workflow with spec-driven development, Claude Code, and Gemini with strict testing gates.
+- Terrassa (Barcelona), Spain. Spanish and Catalan native, English B2 (Professional Working). Remote & Hybrid.
 - Contact: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:danieladanegbe@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/daniel-adanegbe)
 
 #### Stack
